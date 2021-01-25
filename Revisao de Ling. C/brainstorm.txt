@@ -1,0 +1,30 @@
+/*
+Aluno: Djhonathan Paiva
+GRR: 20182753
+TE353 - Programação Orientada a Objetos
+Lista 1 - Exercício 6 - Jogo da Velha - Tarefa para a data 13/11 (sexta-feira)
+Compilando no VSCode  - Tecla F6
+Compilando no DEV-C++ - Tecla F11
+*/
+
+    Brainstorm do projeto
+
+    6. Construir um programa que simule um Jogo da Velha, cumprindo os seguintes requisitos:
+    (a) Permitir movimentos alternados de dois jogadores A e B.
+    (b) Identificar se um movimento pode ser realizado ounão.
+    (c) Identificar o término de um jogo, indicando as três possíveis situações: A ganhou, B ganhou, Empate.
+    (d) Construir um “tabuleiro” que permita a representação das jogadas.
+    
+    * Exercícios retirados do livro “Fundamentos da Programação de Computadores” dos autores A. F. G. Ascencio e E. A. V. de Campos.
+
+    
+    ********** ****************************************************** **********
+    Primeiros passos:
+    - jogo tem 9 casas, logo matriz 3x3
+    - printar caracteres demarcando o espaço das casas
+    - começo de jogo -> player 1 e player 2 -> escolher X ou 0 -> escolher a 1 casa (lin 28)
+    - simbolos para marcação dos times: 0 e '×' (X)
+    - função recursiva ? talvez...
+    - função que pergunta qual casa deseja preencher
+    - função para validar e conferir se a casa escolhida está vazia ou preenchida
+    - 
