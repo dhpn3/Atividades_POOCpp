@@ -1,0 +1,7 @@
+ID;NOME;QUANTIDADE;PRECO;VALOR NOMINAL;POTENCIA;ESPECIFICACAO
+1;Resistor;300;0.15;1K;1/16W;
+2;LED;200;0.50;1K;1/16W;
+3;Capacitor;200;1.50;1K;1/6W;nenhuma;
+4;Indutor;45;3.20;1K;1/6w;nenhuma;
+5;Diodo;10;4.00;2K;1/4W;nenhuma;
+6;Transistor;15;2.5;1K;1/6W;nenhuma;

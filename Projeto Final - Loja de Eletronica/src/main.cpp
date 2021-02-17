@@ -1,0 +1,17 @@
+//LOJA DE ELETRÔNICA (TRABALHO FINAL)
+//DJHONATHAN HENRIQUE PAIVA DO NASCIMENTO
+//FÁBIO GONÇALVES DE OLIVEIRA
+//FABRÍCIO ALVES SANTANA
+//MARCOS VINÍCIUS GANDRA DE SOUZA
+//MARIANA KAWATA CLEMENTE
+
+#include "classes/loja/LojaEletronica.h"
+
+int main() {
+	LojaEletronica Loja;
+	
+	Loja.iniciarMenu();
+	
+	return 0;
+}
+
